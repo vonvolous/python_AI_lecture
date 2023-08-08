@@ -22,7 +22,7 @@
 #### 08월08일(화) : 파이썬 핵심 라이브러리
 
 * 교육 내용 / 강의 자료
-  * [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RlHlQPUtoHteFEYqgAl8QPwVNjHwpQX-)
+  * [Numpy](lecture_code/Py002_Numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RlHlQPUtoHteFEYqgAl8QPwVNjHwpQX-)
   * [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10wZ3v4iOumqEyUkEvFYLITBUAZdpcerj)
   * [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F3U2veiDZg5s2G-AxGuswljwCZaDklNI)
 
