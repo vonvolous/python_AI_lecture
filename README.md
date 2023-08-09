@@ -31,7 +31,7 @@
 #### 08월09일(수) : 딥러닝 프레임워크 (Tensorflow, PyTorch)
 
 * 교육 내용 / 강의 자료
-  * [Tensorflow & Keras 기본]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxETb0QIgHXBg9h2lkHz0hLAlFpw9kPw)
+  * [Tensorflow & Keras 기본](lecture_code/DL001_Tensorflow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxETb0QIgHXBg9h2lkHz0hLAlFpw9kPw)
   * [Tensorflow & Keras로 DNN 구현하기]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1buVP8RI5sLAcrT-QAVqLrpJzo5R48sVy)
   * [PyTorch 기본]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15QYD-SF8pqHEJJCZiX6b7e1FbaSDDNaG)
   * [PyTorch로 DNN 구현하기]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
