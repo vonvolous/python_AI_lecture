@@ -36,7 +36,7 @@
 
   <br/>
   <br/>
-#### 08월10일(목) : CNN 모델 / 영상 분류(Image Classification)
+#### 08월10일(목) : 딥러닝 프레임워크 (Tensorflow, PyTorch) ✅
 
 * 교육 내용 / 강의 자료
   * [Tensorflow & keras로 DNN 구현하기](lecture_code/DL002_Tensorflow_DNN.ipynb)
@@ -44,7 +44,7 @@
 
   <br/>
   <br/>
-#### 08월11일(금) : 데이터 수집과 전처리 / CNN 모델의 훈련
+#### 08월11일(금) : CNN 모델 / 영상 분류(Image Classification) / 데이터 수집과 전처리 / CNN 모델의 훈련
 
 * 교육 내용 / 강의 자료
   * [PyTorch로 DNN 구현하기]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
