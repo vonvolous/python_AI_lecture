@@ -39,7 +39,7 @@
 #### 08월10일(목) : CNN 모델 / 영상 분류(Image Classification)
 
 * 교육 내용 / 강의 자료
-  * [PyTorch 기본]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15QYD-SF8pqHEJJCZiX6b7e1FbaSDDNaG)
+  * [PyTorch 기본](lecture_code/DL003_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15QYD-SF8pqHEJJCZiX6b7e1FbaSDDNaG)
   * [PyTorch로 DNN 구현하기]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
   * [CNN 모델의 이해]()
   * [데이터 수집과 전처리]()
