@@ -44,7 +44,7 @@
 
   <br/>
   <br/>
-#### 08월11일(금) : CNN 모델 / 영상 분류(Image Classification) / 데이터 수집과 전처리 / CNN 모델의 훈련
+#### 08월11일(금) : CNN 모델 / 영상 분류(Image Classification) / 데이터 수집과 전처리 ✅
 
 * 교육 내용 / 강의 자료
   * [PyTorch로 DNN 구현하기](lecture_code/DL004_PyTorch_DNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
@@ -55,7 +55,7 @@
   <br/>
 ### 2주차
 
-#### 08월14일(월) : 객체 검출(Object Detection)
+#### 08월14일(월) :  CNN 모델의 훈련객체 / 검출(Object Detection)
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 영상 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
