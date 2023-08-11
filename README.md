@@ -39,7 +39,7 @@
 #### 08월10일(목) : 딥러닝 프레임워크 (Tensorflow, PyTorch) ✅
 
 * 교육 내용 / 강의 자료
-  * [Tensorflow & keras로 DNN 구현하기](lecture_code/DL002_Tensorflow_DNN.ipynb)
+  * [Tensorflow & keras로 DNN 구현하기](lecture_code/DL002_Tensorflow_DNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1buVP8RI5sLAcrT-QAVqLrpJzo5R48sVy)
   * [PyTorch 기본](lecture_code/DL003_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15QYD-SF8pqHEJJCZiX6b7e1FbaSDDNaG)
 
   <br/>
@@ -47,7 +47,7 @@
 #### 08월11일(금) : CNN 모델 / 영상 분류(Image Classification) / 데이터 수집과 전처리 / CNN 모델의 훈련
 
 * 교육 내용 / 강의 자료
-  * [PyTorch로 DNN 구현하기]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
+  * [PyTorch로 DNN 구현하기](lecture_code/DL004_PyTorch_DNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOKoK2Kyy1IBxOg0-a1M0pvLX53JpQfx)
   * [CNN 모델의 이해](lecture_pdf/DL02_CNN모델개요.pdf)
   * [데이터 수집과 전처리](lecture_pdf/DL04_데이터수집과전처리-영상처리.pdf)
   * [CNN 모델 기반 영상 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
