@@ -58,7 +58,7 @@
 #### 08월14일(월) :  CNN 모델의 훈련객체 / 검출(Object Detection)
 
 * 교육 내용 / 강의 자료
-  * [CNN 모델 기반 영상 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [CNN 모델 기반 영상 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WaNCGQFvYXLpjDF89uyt2WFeWzgD5CM0)
   * [CNN 모델 기반 객체 검출의 이해]()
   * [CNN 모델 기반 객체 검출 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
