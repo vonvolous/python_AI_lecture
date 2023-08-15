@@ -55,7 +55,7 @@
   <br/>
 ### 2주차
 
-#### 08월14일(월) :  CNN 모델의 이미지 분류(Image Classification)
+#### 08월14일(월) :  CNN 모델의 이미지 분류(Image Classification) ✅
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 이미지 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WaNCGQFvYXLpjDF89uyt2WFeWzgD5CM0)
