@@ -58,7 +58,7 @@
 #### 08월14일(월) :  CNN 모델의 이미지 분류(Image Classification) ✅
 
 * 교육 내용 / 강의 자료
-  * [CNN 모델 기반 이미지 분류 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WaNCGQFvYXLpjDF89uyt2WFeWzgD5CM0)
+  * [CNN 모델 기반 이미지 분류 실습](lecture_code/DL005_CNN_ImageClassificaton.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WaNCGQFvYXLpjDF89uyt2WFeWzgD5CM0)
 
   <br/>
   <br/>
@@ -66,7 +66,7 @@
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 객체 검출의 이해](lecture_pdf/DL07_RCNN모델개요.pdf)
-  * [CNN 모델 기반 객체 검출 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gr_RIjL3zy2PbZa2hY8KcXvsB0Ci-MuB)
+  * [CNN 모델 기반 객체 검출 실습](lecture_code/DL006_CNN_ImageClassificaton.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gr_RIjL3zy2PbZa2hY8KcXvsB0Ci-MuB)
   * [CNN 모델 기반 영상 분할의 이해]()
   * [CNN 모델 기반 영상 분할 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
