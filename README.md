@@ -65,7 +65,7 @@
 #### 08월16일(수) : CNN 모델의 객체 검출(Object Detection) / 영상 분할(Image Segmentation)
 
 * 교육 내용 / 강의 자료
-  * [CNN 모델 기반 객체 검출의 이해]()
+  * [CNN 모델 기반 객체 검출의 이해](lecture_pdf/DL07_RCNN모델개요.pdf)
   * [CNN 모델 기반 객체 검출 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   * [CNN 모델 기반 영상 분할의 이해]()
   * [CNN 모델 기반 영상 분할 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
