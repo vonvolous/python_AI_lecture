@@ -70,18 +70,19 @@
 
   <br/>
   <br/>
-#### 08월17일(목) : 영상 분할(Image Segmentation) / 영상 복원(Image Restoration)
+#### 08월17일(목) : 영상 분할(Image Segmentation)
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 영상 분할의 이해](lecture_pdf/DL21_Semantic_Segmantation.pdf)
-  * [CNN 모델 기반 영상 분할 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  * [CNN 모델 기반 영상 복원의 이해]()
-  * [CNN 모델 기반 영상 복원 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [CNN 모델 기반 영상 분할 실습 - 1]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cg6vofQD7RRdWwVXAJJTFyTRHy4hd867)
+  * [CNN 모델 기반 영상 분할 실습 - 2]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FeWacU6EOwNq_xJpx91PAXPZeyoUe1PY)
 
   <br/>
   <br/>
-#### 08월18일(금) : YOLO 모델
+#### 08월18일(금) : 영상 복원(Image Restoration) / YOLO 모델
 
 * 교육 내용 / 강의 자료
+  * [CNN 모델 기반 영상 복원의 이해]()
+  * [CNN 모델 기반 영상 복원 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   * [YOLO 모델의 이해]()
   * [YOLO 모델 기반 객체 검출 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
