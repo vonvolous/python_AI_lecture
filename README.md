@@ -62,19 +62,19 @@
 
   <br/>
   <br/>
-#### 08월16일(수) : CNN 모델의 객체 검출(Object Detection) / 영상 분할(Image Segmentation)
+#### 08월16일(수) : CNN 모델의 객체 검출(Object Detection) ✅
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 객체 검출의 이해](lecture_pdf/DL07_RCNN모델개요.pdf)
   * [CNN 모델 기반 객체 검출 실습](lecture_code/DL006_Faster_RCNN_ObjectDetection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gr_RIjL3zy2PbZa2hY8KcXvsB0Ci-MuB)
-  * [CNN 모델 기반 영상 분할의 이해]()
-  * [CNN 모델 기반 영상 분할 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
   <br/>
   <br/>
-#### 08월17일(목) : 영상 복원(Image Restoration)
+#### 08월17일(목) : 영상 분할(Image Segmentation) / 영상 복원(Image Restoration)
 
 * 교육 내용 / 강의 자료
+  * [CNN 모델 기반 영상 분할의 이해](lecture_pdf/DL21_Semantic_Segmantation.pdf)
+  * [CNN 모델 기반 영상 분할 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   * [CNN 모델 기반 영상 복원의 이해]()
   * [CNN 모델 기반 영상 복원 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
