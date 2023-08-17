@@ -70,7 +70,7 @@
 
   <br/>
   <br/>
-#### 08월17일(목) : 영상 분할(Image Segmentation)
+#### 08월17일(목) : 영상 분할(Image Segmentation) ✅
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 영상 분할의 이해](lecture_pdf/DL21_Semantic_Segmantation.pdf)
