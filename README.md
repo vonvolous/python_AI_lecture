@@ -74,8 +74,8 @@
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 영상 분할의 이해](lecture_pdf/DL21_Semantic_Segmantation.pdf)
-  * [CNN 모델 기반 영상 분할 실습 - 1]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cg6vofQD7RRdWwVXAJJTFyTRHy4hd867)
-  * [CNN 모델 기반 영상 분할 실습 - 2]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FeWacU6EOwNq_xJpx91PAXPZeyoUe1PY)
+  * [CNN 모델 기반 영상 분할 실습 - 1](lecture_code/DL21_Semantic_Segmantation_Unet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FeWacU6EOwNq_xJpx91PAXPZeyoUe1PY)
+  * [CNN 모델 기반 영상 분할 실습 - 2](lecture_code/DL21_Semantic_Segmantation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cg6vofQD7RRdWwVXAJJTFyTRHy4hd867)
 
   <br/>
   <br/>
