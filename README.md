@@ -79,11 +79,11 @@
 
   <br/>
   <br/>
-#### 08월18일(금) : 영상 복원(Image Restoration) / YOLO 모델
+#### 08월18일(금) : 영상 복원(Image Restoration) / YOLO 모델 ✅
 
 * 교육 내용 / 강의 자료
   * [CNN 모델 기반 영상 복원의 이해](lecture_pdf/DL22_Image_Restoration.pdf)
-  * [CNN 모델 기반 영상 복원 실습]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * [CNN 모델 기반 영상 복원 실습](lecture_code/DL022_Image_Resolution_Restoration.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/138pmSMasGXyOK6iFg791x-pBo4uy46ME)
   * [YOLO 모델의 이해](lecture_pdf/DL08_YOLO모델개.pdf)
   * [YOLO 모델 기반 객체 탐지(Darknet) 실습](lecture_code/DL008_YOLO_Darknet_ObjectDetection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lLisYyOMwVviC9uJc-wzDzkba40Ositr)
   * [YOLO 모델 기반 객체 탐지(Keras) 실습](lecture_code/DL008_YOLO_Keras_ObjectDetection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UD14uC0pasmsyxlQHuZZKjre6lY-Orwo)
